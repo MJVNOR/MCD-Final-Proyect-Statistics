@@ -17,6 +17,9 @@ from sklearn.utils import resample
 import plotly.io as pio
 import numpy as np
 import warnings
+import plotly.io as pio
+
+pio.renderers.default = "browser"
 
 warnings.filterwarnings("ignore")
 st.set_page_config(
