@@ -1,0 +1,30 @@
+HMA: hongos micorrícicos arbusculares
+ID: el número de identificación de los individuos
+Réplica: Número del individuo (números del 1-100)
+Especie: Especie (Vinorama = V. farnesiana, ricino = R. communis, romerillo = Baccharis sarothroides, gordolobo = Pseunognaphaleum leucocephalum)
+Trat: tratamiento (C = tratamiento de composta, CI = tratamiento de composta e inóculo de HMA, J= jal, J= jal e inóculo y SN= suelo natural)
+Estructuras del hongo = hifa, vesícula, arbúsculo, espora, endófito.
+Campos = van del 1-100; cuántas intersecciones se vieron en el microscopio.
+% del total = suma de las estructuras divididos por los campos y el resultado multiplicado por 100.
+Germinación: si germinó o no. Valores de 0 y 1. 0 = no germinó; 1= germinó.
+H1: altura en el tiempo uno (medición hecha en cm)
+H2: altura en el tiempo dos (medición hecha en cm)
+... las columnas con H miden altura y el número marca el tiempo en el que se hizo la medición.
+Supervivencia: valores de 0 y 1. 0 = murió; 1= sobrevivió.
+Fv_am: medición de fluorescencia medida en la mañana. Valores van del 0 a 1. 0 = daño al fotosistema; 1 = sin daños.
+Fv_pm: medición de fluorescencia medida en el mediodía. Valores van del 0 a 1. 
+Tejido: a qué parte de la planta pertenece el análisis. Aereo = hojas y tallos; radical = raíces.
+Peso: medición estandar del análisis de elementos. Valores iguales.
+As: elemento arsénico medido en partes por millón (ppm) o mg/kg
+Ca: elemento calcio medido en partes por millón (ppm) o mg/kg
+Cu: elemento cobre medido en partes por millón (ppm) o mg/kg
+Fe: elemento hierro medido en partes por millón (ppm) o mg/kg
+K: elemento potasio medido en partes por millón (ppm) o mg/kg
+Mg: elemento magnesio medido en partes por millón (ppm) o mg/kg
+Mn: elemento manganeso medido en partes por millón (ppm) o mg/kg
+P: elemento fósforo medido en partes por millón (ppm) o mg/kg
+Pb: elemento plomo medido en partes por millón (ppm) o mg/kg
+Zn: elemento zinc medido en partes por millón (ppm) o mg/kg
+Biomasa: biomasa total del individuo (suma de los tejidos aéreo y radical). Valores medidos en gramos (g).
+
+ 

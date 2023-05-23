@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "acum",
+        "acumpc",
+        "cumsum",
+        "farnesiana",
+        "scipy",
+        "Trat"
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none"
+}
